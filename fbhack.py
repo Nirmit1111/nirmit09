@@ -82,9 +82,9 @@ os.system("clear")
 print  """
 
                      
-\033[1;94mFACEBOOK  RIAZKHAN
+\033[1;94mFACEBOOK  nirtmi cloner
                   
-\033[1;92mFB PAGE   RIAZHACKER
+\033[1;92mFB PAGE   nirmit
 
 """
 
